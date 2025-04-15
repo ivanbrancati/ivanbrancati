@@ -51,4 +51,13 @@ Feel free to reach out if you're into GenAI, NLP, Data Analytics or want to chat
 
 ---
 
+## 📄 Curriculum Vitae
+
+You can view and download my CV below:
+
+![CV - Last Updated](https://img.shields.io/badge/Updated-April%202024-green)
+📥 [Download CV (PDF)](./docs/cd_ivanbrancati.pdf)
+
+---
+
 ✍️ _Never wanted to re-invent the wheel, I'm just trying to make it spin faster._
