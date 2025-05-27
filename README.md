@@ -55,7 +55,7 @@ Feel free to reach out if you're into GenAI, NLP, Data Analytics or want to chat
 
 You can view and download my CV below:
 
-![CV - Last Updated](https://img.shields.io/badge/Updated-April%202024-green)
+![CV - Last Updated](https://img.shields.io/badge/Updated-May%202024-green)
 📥 [Download CV (PDF)](https://raw.githubusercontent.com/ivanbrancati/ivanbrancati/main/docs/cv_ivanbrancati.pdf)
 
 ---
