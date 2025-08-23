@@ -3,9 +3,9 @@
 
 # 👋 Hi, I'm Ivan Brancati
 
-🎓 Artificial Intelligence and Data Analytics Master's student @ PoliTO
-
 💼 Big Data Engineer @ Data Reply IT
+
+🎓 Graduated in  Artificial Intelligence and Data Analytics (Computer Engineering) @ PoliTO
 
 🎓 Graduated in Ingegneria Elettronica ed Informatica @ UniME
 
