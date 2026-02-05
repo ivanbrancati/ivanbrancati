@@ -33,6 +33,12 @@ On this profile, you’ll find a collection of my academic and personal projects
 
 ---
 
+## 🏅 Certifications
+
+[![MongoDB Associate Developer](https://img.shields.io/badge/MongoDB-Associate%20Developer-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.credly.com/badges/316bb2a0-a0cb-410f-a680-239fd9d0b6f8/linked_in_profile) [![Professional Scrum Master I](https://img.shields.io/badge/Scrum-PSM%20I-009FDA?style=flat&logo=scrumalliance&logoColor=white)](https://www.credly.com/badges/9aa4482a-d182-4c8e-be31-2d83f9cd3ea9) [![Confluent Data Streaming Engineer](https://img.shields.io/badge/Confluent-Data%20Streaming%20Engineer-000000?style=flat&logo=apachekafka&logoColor=white)](https://certificates.confluent.io/1ea00e94-49da-4f86-b8e6-a47d69a60578#acc.D6oczYPJ) [![AWS Agentic AI Essentials](https://img.shields.io/badge/AWS-Agentic%20AI%20Essentials-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/7d96c1db-b814-439e-b5e7-9507c04c9ae1/linked_in_profile)
+
+---
+
 ## 🧠 Recent Projects
 
 - ✨ **Insurance Document Chatbot**  
@@ -55,7 +61,7 @@ Feel free to reach out if you're into GenAI, NLP, Data Analytics or want to chat
 
 You can view and download my CV below:
 
-![CV - Last Updated](https://img.shields.io/badge/Updated-August%202025-green)
+![CV - Last Updated](https://img.shields.io/badge/Updated-February%202026-green)
 📥 [Download CV (PDF)](https://raw.githubusercontent.com/ivanbrancati/ivanbrancati/main/docs/cv_ivanbrancati.pdf)
 
 ---
